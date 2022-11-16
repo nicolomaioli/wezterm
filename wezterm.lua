@@ -3,7 +3,7 @@ local wezterm = require('wezterm')
 local M = {
     color_scheme = 'tokyonight-storm',
     font = wezterm.font_with_fallback {
-        {family = 'FiraCode Nerd Font', weight = 'Medium'},
+        {family = 'Hack Nerd Font', weight = 'Medium'},
     },
     font_size = 11,
     enable_scroll_bar = false,
